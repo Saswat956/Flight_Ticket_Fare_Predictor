@@ -18,9 +18,8 @@ Demo
 ------
 Link: https://flight-ticket-predictor200x.herokuapp.com/
 
-![FLIGHT PRICE PREDICTION-3](https://user-images.githubusercontent.com/41515202/95026175-0fda3680-06ad-11eb-86dc-457fa5ae1ab6.PNG)
-
-![FLIGHT PRICE PREDICTION-2](https://user-images.githubusercontent.com/41515202/95026073-4b283580-06ac-11eb-9129-2bc25d19c15e.png)
+![Capture1](https://user-images.githubusercontent.com/64731852/101022742-a64c9c00-3526-11eb-808a-e9549aad93c2.JPG)
+![Capture2](https://user-images.githubusercontent.com/64731852/101022749-a8165f80-3526-11eb-9809-646c84925341.JPG)
 
 
 Directory Tree
