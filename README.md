@@ -56,9 +56,8 @@ Overview / What is it ??
 * We might have often heard travelers saying that flight ticket prices are so unpredictable
 
 
-Movtivation / Why / Reason ??
+Motivation / Why / Reason ??
 ----------------------------
-* What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
 
 * Because our airfare predictions were designed to check the price patterns of one airline at a time and this can only mean an increased accuracy prediction
 
